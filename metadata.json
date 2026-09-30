@@ -1,0 +1,6 @@
+{
+  "name": "Site & Search",
+  "description": "We build high-performing websites and optimize them for search, AEO, and GEO—so your business doesn't just look good online. It gets discovered.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
